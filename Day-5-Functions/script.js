@@ -1,4 +1,5 @@
-// Day-5-Functions
+/* Day-5-Functions */
+
 // Functions examples
 
 // Function Declaration

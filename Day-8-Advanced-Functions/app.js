@@ -68,6 +68,8 @@ let squareNumbers = processNumbers(numbers, square);
 console.log(squareNumbers);
 //[ 1, 4, 9, 16, 25 ]
 
+// =========================================================
+
 /** 5. The "this" keyword: */
 const user = {
     name: "kamal",
